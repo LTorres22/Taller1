@@ -7,6 +7,7 @@ using System.Net.Sockets;
 using System.Text;
 using System.Threading.Tasks;
 
+//Lhuanquilef Taller1
 namespace Taller1
 {
     public class Program
