@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taller1", "Taller1\Taller1.csproj", "{DBDF0DDB-AB79-4DC7-9734-45E2E8C5A34B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerSocketUtilities", "ServerSocketUtilities\ServerSocketUtilities.csproj", "{2091CD77-EE23-4353-A54D-8BE8B49D43A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBDF0DDB-AB79-4DC7-9734-45E2E8C5A34B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBDF0DDB-AB79-4DC7-9734-45E2E8C5A34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBDF0DDB-AB79-4DC7-9734-45E2E8C5A34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBDF0DDB-AB79-4DC7-9734-45E2E8C5A34B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2091CD77-EE23-4353-A54D-8BE8B49D43A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2091CD77-EE23-4353-A54D-8BE8B49D43A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2091CD77-EE23-4353-A54D-8BE8B49D43A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2091CD77-EE23-4353-A54D-8BE8B49D43A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2872C07D-3A4F-4A36-8CA1-1E951DB3683C}
+	EndGlobalSection
+EndGlobal
